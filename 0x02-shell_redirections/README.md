@@ -1,1 +1,1 @@
-Script that prints hello world followed by a new line to standard output
+Task 0, Hello world
