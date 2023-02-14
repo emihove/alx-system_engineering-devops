@@ -1,2 +1,1 @@
-#!/bin/bash
-Task 0, where am I?
+script that creates an alias
